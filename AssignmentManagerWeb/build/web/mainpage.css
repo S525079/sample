@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 15, 2016, 1:38:15 PM
+    Author     : S525079
+*/
+.containerdiv{
+    background-color: #c1e2b3;
+}
+.rowdiv{
+    margin: 20px;
+    width: inherit;
+    height: 700px;
+    padding: 30px;
+}
+.coldivsidemenu{
+    background-color: silver;
+    height:90%;
+}
+.coldivmaincontent{
+    background-color: #ccc;
+    text-align: center;
+    height:90%;
+}
